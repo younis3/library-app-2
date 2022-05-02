@@ -576,11 +576,6 @@ namespace LibraryApp2
                         break;
                 }
             }
-
-
-
-
-
         }
     }
 }
